@@ -117,11 +117,11 @@ else - иначе (в иноч случае)
 #     print("Они равны")
 
 
-# name = "Geeks"
-# password = "2021"
+name = "Geeks"
+password = "2021"
 
-# user_name = input("Введите логин: ")
-# user_passw = input("Введите пароль: ")
+user_name = input("Введите логин: ")
+user_passw = input("Введите пароль: ")
 
 "Не верно"
 # if name == user_name:
@@ -138,10 +138,10 @@ else - иначе (в иноч случае)
 
 "Операторы and, or"
 
-# if name == user_name and password == user_passw:
-#     print("Добро пожаловать!")
-# else:
-#     print("Неверный логин или пароль")
+if name == user_name and password == user_passw:
+    print("Добро пожаловать!")
+else:
+    print("Неверный логин или пароль")
 
 # if name == user_name or password == user_passw:
 #     print("Добро пожаловать!")
