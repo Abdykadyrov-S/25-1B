@@ -122,7 +122,7 @@ dict()
 # my_dict = {'name':'Akbar', 'age':17, 'gender': 'M'}
 # print(my_dict['age'])
 # print(my_dict)
-# my_dict_2 = dict(name='Akbar')
+# my_dict_2 = dict(name='Akbar', age=17)
 # print(my_dict_2)
 
 # my_list = ['Akbar', 17, 'M']
@@ -206,3 +206,4 @@ dict()
 # strange_app = list('TikTok')
 # print(strange_app)
 
+cars = ['mers', 'nissan', 'bmw', 'honda', 'daewoo', 'toyota', 'bmw', 'bently', 'audi', 'mers', 'nissan']
